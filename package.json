@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "lodash": "^3.10.1",
-    "request": "^2.62.0"
+    "request": "^2.62.0",
+    "validate-http-header": "git+https://github.com/akras14/validate-http-headers.git"
   }
 }
